@@ -20,10 +20,11 @@ Developed as an academic project, focusing on **electrical system design, wiring
 ---
 
 ## 📂 Project Structure
-ev-hybrid-charger-station/
-docs/ # Diagrams, schematics, reports
-media/ # Images, prototype photos
-README.md
+
+ev-hybrid-charger-station/  
+├── docs/      # Diagrams, schematics, reports  
+├── media/     # Images, prototype photos  
+└── README.md  # Project documentation  
 
 ---
 
