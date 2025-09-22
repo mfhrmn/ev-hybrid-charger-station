@@ -41,5 +41,5 @@ ev-hybrid-charger-station/
 - Email: mfhrmn@gmail.com
 
 **Amanda Nabila**
-- LinkedIn: [amandanabila10]([https://github.com/](https://www.linkedin.com/in/amandanabila10/))  
+- LinkedIn: [amandanabila10](https://www.linkedin.com/in/amandanabila10/)
 - Email: amandanabila1011@gmail.com
