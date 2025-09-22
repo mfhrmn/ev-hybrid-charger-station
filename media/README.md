@@ -9,7 +9,7 @@ This folder contains all visual materials demonstrating the **EV Hybrid Charger 
 ### Prototype Photos
 - Images showing the assembled charger station  
 - Wiring connections and component placements  
-- File examples: `prototype_front.jpg`, `wiring_closeup.png`
+- File: `prototype_front.jpg`, `wiring_closeup.png`
 
 ---
 
