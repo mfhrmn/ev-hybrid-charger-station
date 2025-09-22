@@ -21,9 +21,9 @@ Developed as an academic project, focusing on **electrical system design, wiring
 
 ## 📂 Project Structure
 ev-hybrid-charger-station/
-├── docs/ # Diagrams, schematics, reports
-├── media/ # Images, prototype photos
-└── README.md
+docs/ # Diagrams, schematics, reports
+media/ # Images, prototype photos
+README.md
 
 ---
 
@@ -36,7 +36,7 @@ ev-hybrid-charger-station/
 
 ## 👤 Authors
 
-### Fathurrahman Sahib  
+### Muammar Fathurrahman Sahib  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mfhrmn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfhrmn)  
 [![GitHub](https://img.shields.io/badge/GitHub-mfhrmn-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfhrmn)  
 [![Email](https://img.shields.io/badge/Email-mfhrmn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfhrmn@gmail.com)  
