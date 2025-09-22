@@ -34,12 +34,16 @@ ev-hybrid-charger-station/
 
 ---
 
-## 👤 Author
-**Fathurrahman Sahib**  
-- LinkedIn: [mfhrmn](https://linkedin.com/in/mfhrmn)  
-- GitHub: [mfhrmn](https://github.com/mfhrmn)  
-- Email: mfhrmn@gmail.com
+## 👤 Authors
 
-**Amanda Nabila**
-- LinkedIn: [amandanabila10](https://www.linkedin.com/in/amandanabila10/)
-- Email: amandanabila1011@gmail.com
+### Fathurrahman Sahib  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mfhrmn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mfhrmn)  
+[![GitHub](https://img.shields.io/badge/GitHub-mfhrmn-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mfhrmn)  
+[![Email](https://img.shields.io/badge/Email-mfhrmn%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfhrmn@gmail.com)  
+
+---
+
+### Amanda Nabila  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amandanabila10-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandanabila10/)  
+[![Email](https://img.shields.io/badge/Email-amandanabila1011%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amandanabila1011@gmail.com)  
+
